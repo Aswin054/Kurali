@@ -1,0 +1,7 @@
+datasets
+tensorflow
+numpy
+pandas
+pickle-mixin
+fastapi
+uvicorn
